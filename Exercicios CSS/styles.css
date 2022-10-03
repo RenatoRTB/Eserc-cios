@@ -1,0 +1,16 @@
+.flex1 {
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    gap: ;
+    background-color: green;
+    }
+  
+.flex-items {
+        background-color: #f4f4f4;
+        width: 100px;
+        height:50px;
+        margin: 10px;
+        text-align: center;
+        font-size: 40px;
+   }
